@@ -28,7 +28,7 @@ This project is for educational and entertainment purposes only. Do not use it t
 ![Scary Message](./right.png)  
 _Fake "You've been hacked!" message_
 
-![Fake BSOD](./images/left.png)  
+![Fake BSOD](.left.png)  
 _Simulated Blue Screen of Death_
 
 ---
