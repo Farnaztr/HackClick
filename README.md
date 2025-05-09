@@ -25,7 +25,7 @@ This project is for educational and entertainment purposes only. Do not use it t
 
 > Here's what the output looks like:
 
-![Scary Message](./images/right.png)  
+![Scary Message](./right.png)  
 _Fake "You've been hacked!" message_
 
 ![Fake BSOD](./images/left.png)  
