@@ -8,6 +8,7 @@ A Python prank tool that reacts to mouse clicks in unexpected ways:
   <img src="https://img.shields.io/badge/Author-farnaztr-green" />
   <img src="https://img.shields.io/badge/Language-Python-blue" />
 </p>
+
 ---
 
 ##  Disclaimer
