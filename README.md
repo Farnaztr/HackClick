@@ -1,7 +1,10 @@
 #  ClickTroll - Scary Mouse Prank
 
 A Python prank tool that reacts to mouse clicks in unexpected ways:
-
+<p>
+  <img src="https://img.shields.io/badge/Author-farnaztr-green" />
+  <img src="https://img.shields.io/badge/Language-Python-blue" />
+</p>
 -  Right-click triggers a fake "You've been hacked!" message.
 -  Left-click simulates a fake Blue Screen of Death (BSOD).
 
