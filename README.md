@@ -1,4 +1,4 @@
-#  ClickTroll - Scary Mouse Prank
+#  HackClick - Scary Mouse Prank
 
 A Python prank tool that reacts to mouse clicks in unexpected ways:
 
